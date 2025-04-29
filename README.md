@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I am Polish but I live in Germany
 - 📱 I Wont make projects that often but i will try to make some
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1tp6a.svg)](https://uptime.betterstack.com/?utm_source=status_badge) ![Alt text](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![Alt text](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white) ![Alt text](https://img.shields.io/badge/O2-0050FF.svg?style=for-the-badge&logo=O2&logoColor=white) ![Alt text](https://img.shields.io/badge/Kubuntu-0079C1.svg?style=for-the-badge&logo=Kubuntu&logoColor=white) [![Lua Badge](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1tp6a.svg)](https://uptime.betterstack.com/?utm_source=status_badge) ![Alt text](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![Alt text](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white) ![Alt text](https://img.shields.io/badge/O2-0050FF.svg?style=for-the-badge&logo=O2&logoColor=white) ![Alt text](https://img.shields.io/badge/Kubuntu-0079C1.svg?style=for-the-badge&logo=Kubuntu&logoColor=white) ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
 
 <!---
 wavetecrr1/wavetecrr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
